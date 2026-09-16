@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<resources>
+    
+    
+    <string name="app_name">Ocean Atlas</string>
+    
+    
+    <string name="true_label">TRUE</string>
+    
+    
+    <string name="false_label">FALSE</string>
+    
+    
+    <string name="next_label">NEXT</string>
+    
+    
+    <string name="previous_label">PREVIOUS</string>
+    
+    
+    <string name="cheat_label">CHEAT</string>
+    
+    
+    <string name="restart_label">RESTART QUIZ</string>
+    
+    
+    <string name="reveal_label">SHOW ANSWER</string>
+    
+    
+    <string name="back_label">BACK TO QUIZ</string>
+    
+    
+    <string name="correct">Correct!</string>
+    
+    
+    <string name="incorrect">Incorrect!</string>
+    
+    
+    <string name="unanswered">Choose TRUE or FALSE. Each question counts once.</string>
+    
+    
+    <string name="answered">You answered: %1$s. Correct answer: %2$s.</string>
+    
+    
+    <string name="progress">Question %1$d of %2$d</string>
+    
+    
+    <string name="score">Score: %1$d / %2$d • Answered: %3$d / %2$d</string>
+    
+    
+    <string name="final_score">Quiz complete! Final score: %1$d / %2$d</string>
+    
+    
+    <string name="hidden_answer">Tap SHOW ANSWER to reveal the answer.</string>
+    
+    
+    <string name="answer_format">Answer: %1$s</string>
+    
+    
+    <string name="cheat_title">Answer guide</string>
+    
+    
+    <string name="intro">Explore the world, one question at a time.</string>
+    
+    
+    <string name="q0">The Pacific Ocean is the largest ocean on Earth.</string>
+    
+    
+    <string name="q1">Sydney is the capital of Australia.</string>
+    
+    
+    <string name="q2">The Sahara Desert is in Africa.</string>
+    
+    
+    <string name="q3">Brazil is in Europe.</string>
+    
+    
+    <string name="q4">Mount Everest is part of the Himalayas.</string>
+    
+    
+    <string name="q5">The Atlantic Ocean is larger than the Pacific Ocean.</string>
+    
+
+</resources>
