@@ -1,83 +1,32 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    
-    
-    <string name="app_name">Ocean Atlas</string>
-    
-    
-    <string name="true_label">TRUE</string>
-    
-    
-    <string name="false_label">FALSE</string>
-    
-    
-    <string name="next_label">NEXT</string>
-    
-    
-    <string name="previous_label">PREVIOUS</string>
-    
-    
-    <string name="cheat_label">CHEAT</string>
-    
-    
-    <string name="restart_label">RESTART QUIZ</string>
-    
-    
-    <string name="reveal_label">SHOW ANSWER</string>
-    
-    
-    <string name="back_label">BACK TO QUIZ</string>
-    
-    
-    <string name="correct">Correct!</string>
-    
-    
-    <string name="incorrect">Incorrect!</string>
-    
-    
-    <string name="unanswered">Choose TRUE or FALSE. Each question counts once.</string>
-    
-    
-    <string name="answered">You answered: %1$s. Correct answer: %2$s.</string>
-    
-    
-    <string name="progress">Question %1$d of %2$d</string>
-    
-    
-    <string name="score">Score: %1$d / %2$d • Answered: %3$d / %2$d</string>
-    
-    
-    <string name="final_score">Quiz complete! Final score: %1$d / %2$d</string>
-    
-    
-    <string name="hidden_answer">Tap SHOW ANSWER to reveal the answer.</string>
-    
-    
-    <string name="answer_format">Answer: %1$s</string>
-    
-    
-    <string name="cheat_title">Answer guide</string>
-    
-    
-    <string name="intro">Explore the world, one question at a time.</string>
-    
-    
-    <string name="q0">The Pacific Ocean is the largest ocean on Earth.</string>
-    
-    
-    <string name="q1">Sydney is the capital of Australia.</string>
-    
-    
-    <string name="q2">The Sahara Desert is in Africa.</string>
-    
-    
-    <string name="q3">Brazil is in Europe.</string>
-    
-    
-    <string name="q4">Mount Everest is part of the Himalayas.</string>
-    
-    
-    <string name="q5">The Atlantic Ocean is larger than the Pacific Ocean.</string>
-    
-
+    <string name="app_name">Geo Quiz</string>
+    <string name="tagline">Know the place. Check the fact.</string>
+    <string name="selector_label">Jump to a question</string>
+    <string name="progress_label">Answered: %1$d / %2$d</string>
+    <string name="score_label">Score: %1$d / %2$d</string>
+    <string name="final_label">Completed · Final score: %1$d / %2$d</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="review_button">Review my answers</string>
+    <string name="restart_button">Start again</string>
+    <string name="unanswered">Choose TRUE or FALSE. You can visit questions in any order.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="saved_correct">Correct. Your answer: %1$s.</string>
+    <string name="saved_incorrect">Incorrect. Your answer: %1$s.</string>
+    <string name="locked">Your first answer is saved. Use NEXT or the question selector to continue.</string>
+    <string name="review_heading">Your quiz review</string>
+    <string name="review_pending">Answer all questions to see your final result. Unanswered questions stay hidden here.</string>
+    <string name="review_finished">All questions answered. Explore the explanations below.</string>
+    <string name="back_button">Back to questions</string>
+    <string name="review_status">%1$s · You chose %2$s · Answer: %3$s</string>
+    <string name="not_answered">Not answered yet</string>
+    <string name="correct_label">Correct</string>
+    <string name="incorrect_label">Incorrect</string>
+    <string name="restart_title">Start a new quiz?</string>
+    <string name="restart_message">This clears the answers and score for this attempt.</string>
+    <string name="cancel">Keep my progress</string>
+    <string name="item_number">%1$d. %2$s</string>
 </resources>

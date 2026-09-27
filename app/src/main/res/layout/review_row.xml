@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:background="@drawable/panel" android:padding="18dp" android:layout_marginTop="14dp">
+    <TextView android:id="@+id/row_statement" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="19sp" android:textStyle="bold" android:textColor="@color/ink" />
+    <TextView android:id="@+id/row_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="15sp" android:textColor="@color/accent" android:layout_marginTop="10dp" />
+    <TextView android:id="@+id/row_explanation" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="16sp" android:textColor="@color/secondary" android:layout_marginTop="10dp" />
+</LinearLayout>
